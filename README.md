@@ -2,6 +2,10 @@
 
 [<img src="https://img.youtube.com/vi/N6PKMr5ZFKk/maxresdefault.jpg" width="75%">](https://youtu.be/N6PKMr5ZFKk)
 
+# Authors 
+Titus Smith, Megan Stoffel, Vineeth Suresh
+CS 564 Databases Project
+
 # Implementation
 The web application we developed firstly opens up to a login page. In order to use the application, the user must either login with a username and password or create an account. The user can be either a general user or an admin user as explained in the introduction portion of this report above. Once logged in, a user is brought to the homepage which showcases the 21 best rated movies from the database. Clicking on a movie image navigates the user to a details page of the movie which includes basic information about the movie, along with the top three actors and list of genres. From here, the user is able to add a rating for the movie out of 100. Back on the homepage, the user has five different options to search for a movie: either by title, year, genre, actor, or country.  
 
